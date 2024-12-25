@@ -14,7 +14,7 @@ body {
     width: 90%;
     max-width: 400px;
     box-sizing: border-box;
-    margin-left: 220px; /* Adjust this value based on the width of the sidebar */
+    margin-left: 220px;
 }
 
 h1 {
