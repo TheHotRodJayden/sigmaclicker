@@ -61,6 +61,10 @@ noscript {
     margin-left: 50px;
 }
 
+#incrementButton:focus {
+    outline: none;
+}
+
 .upgrades-side {
     width: 200px;
     position: fixed;
